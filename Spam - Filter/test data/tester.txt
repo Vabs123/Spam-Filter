@@ -1,0 +1,26 @@
+Think about the Email's Purpose
+
+From: mansion@usc.edu [mailto:mansion@usc.edu] On Behalf Of Capital One
+Sent: Wednesday, November 26, 2008 8:42 AM
+Subject: Customer Alert
+
+Dear Capital One Cardholder,
+
+During our regularly scheduled account maintenance and verification procedures, we have detected a slight error regarding your Capital One Card(s).
+
+This might be due to one of the following reasons:
+
+1. A recent change in your personal information (i.e. address changing) 2. Submitting invalid information during the initial sign up process.
+4. Multiple failed logins in your account.
+3. An inability to accurately verify your selected option of payment due to an internal error within our system.
+
+Please update and verify your information by clicking the following link:
+
+http:// servicing.capitalone-iv.com /c1/ login.aspx
+
+Note: You must verify your information before you can continue using your card.
+
+Thank you,
+Capital One.
+
+The "usc.edu" domain in the "From" address is a give away that this is a phishing scam.  Also the link to the Capital One website is most likely fake.
